@@ -8,5 +8,5 @@ MQTT implementation with Python
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/MQTT/blob/develop/png_files/20181110_185558.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/MQTT/blob/develop/png_files/20181110_185558.png" width="50%" height="50%">
 </a>
