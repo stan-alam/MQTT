@@ -7,6 +7,6 @@ MQTT implementation with Python
   <img src="https://github.com/stan-alam/MQTT/blob/develop/svg_files/01/mqtt-0.svg" width="80%" height="80%">
 </a>
 
-<a>
+<a align="center">
   <img src="https://github.com/stan-alam/MQTT/blob/develop/png_files/20181110_185558.png" width="50%" height="50%">
 </a>
